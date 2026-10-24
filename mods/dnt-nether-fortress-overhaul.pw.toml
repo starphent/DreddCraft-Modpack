@@ -1,0 +1,13 @@
+name = "DnT Nether Fortress Overhaul"
+filename = "DnT-nether-fortress-overhaul-2.5.1 [NeoForge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b329f7044c38a6234e295ef6a087de4fdc5fbb73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8778046
+project-id = 1053229

@@ -1,0 +1,13 @@
+name = "Moderner Beta"
+filename = "moderner-beta-neoforge-5.0.0-alpha.4+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1820a92bce942dc5d18289854da6b1d603e97090"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8890072
+project-id = 1461746

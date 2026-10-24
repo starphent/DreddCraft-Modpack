@@ -1,0 +1,13 @@
+name = "project-1493418"
+filename = "hybrid-beta-1.0.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7b612f212378513885d1f411b4a3f30b547b89c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7798891
+project-id = 1493418

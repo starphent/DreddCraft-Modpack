@@ -1,0 +1,13 @@
+name = "IronSable X Wind's Spellbooks"
+filename = "ironsable-wind-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c09c73a83deaf6439f2d33652898eb610dbfa4f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8598265
+project-id = 1643762

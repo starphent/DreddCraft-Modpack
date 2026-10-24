@@ -1,0 +1,13 @@
+name = "Nightosphere"
+filename = "nightosphere-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "954b20d27e54bd439fd33bf7b857b8952cbe5ea2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7860094
+project-id = 1323987

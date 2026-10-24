@@ -1,0 +1,13 @@
+name = "IronSable"
+filename = "ironsable-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "326a119843cd31c99a4f25b62075c8dd59c88e50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9112778
+project-id = 1625528

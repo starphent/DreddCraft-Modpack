@@ -1,0 +1,50 @@
+/gamemode spectator
+/gamemode creative
+/gamemode survival
+/gamemode spectator
+/gamemode survival
+/data get entity 8ee83801-12a5-454b-be40-378044512ad3
+/msg SomethingShard yep!
+/msg SomethingShard muted them lol
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/msg SomethingShard idm do you wana?
+/msg SomethingShard we can!
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode spectator
+/effect give Starphent minecraft:night_vision infinite
+/gamemode creative
+/gamemode spectator
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/effect clear Starphent
+/gamemode creative
+/tp SomethingShard
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/tp SomethingShard Starphent
+/gamemode creative
+/gamemode survival
+/pastel
+/advancement grant Starphent everything

@@ -1,0 +1,13 @@
+name = "Skill Proficiencies"
+filename = "specialities-neoforge-1.6.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d4TtjlpN/versions/1FCdhE5j/specialities-neoforge-1.6.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "8102d8cd3e1c71a20f016430ce82445f05b6d66b3f2586512f932e3a5806471dabd1302f26de1676ce1144ccc69ff7d8b01d641017cd824917f8ce21b898b53f"
+
+[update]
+[update.modrinth]
+mod-id = "d4TtjlpN"
+version = "1FCdhE5j"

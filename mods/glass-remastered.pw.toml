@@ -1,0 +1,13 @@
+name = "G.L.A.S.S Remastered"
+filename = "glass-1.0.0-experimental.sable+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddde2e33f8fcf9d437a41f393c126c32c6066d0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9224878
+project-id = 1090535

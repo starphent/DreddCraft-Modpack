@@ -1,0 +1,13 @@
+name = "The Beyond"
+filename = "the_beyond-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c24eaf1be9d8c80f2a5d9beebb5a67af579305ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9149417
+project-id = 658435

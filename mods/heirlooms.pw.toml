@@ -1,0 +1,13 @@
+name = "Heirlooms"
+filename = "heirlooms-neoforge-1.2.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c4bdf11c507eab95d4f12cb5c1efa9169d59b22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7552358
+project-id = 1348825

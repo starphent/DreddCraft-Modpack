@@ -1,0 +1,13 @@
+name = "Little Joys"
+filename = "littlejoys-neoforge-1.21.1-21.1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d56811199b8078be9b7ff619a097b8b193a3b1c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8837353
+project-id = 1235950
