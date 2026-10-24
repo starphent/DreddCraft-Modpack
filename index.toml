@@ -1088,6 +1088,11 @@ hash = "027ea504750465ab40667526ad7eb4a965716e11e70d1aded3f42a5be8baa381"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps-x-sable.pw.toml"
+hash = "b935ef30071e33025010c390655d53c53fc7bf82fecc8ac2b3cad0b98accee0d"
+metafile = true
+
+[[files]]
 file = "mods/project-1493418.pw.toml"
 hash = "fd1ca89e3fec72ac808a89e8b385c837d4930f4c2a91de38f7ea5d6cc4416837"
 metafile = true
