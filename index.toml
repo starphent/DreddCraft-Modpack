@@ -1302,10 +1302,6 @@ hash = "cd321f6365bc3938e0671450aadcd40c8e03af5cb24d0a545fb07c890b4793ac"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "e789f5815aa8d484e120a23c158c1f9c963ccf400e675d9129240cca891e7d81"
-
-[[files]]
 file = "patchouli_data.json"
 hash = "0d6f8bff5d59d58e2ddda36b742394251afe308cb8cf96fac6c6c06144e28a15"
 
