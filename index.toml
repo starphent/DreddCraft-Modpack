@@ -1083,11 +1083,6 @@ hash = "8eed7b899ed784a5d5ed2c4ed4ff1f10a2b650f106f39b3340e2bd6a2a217561"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-x-sable-aeronautics-compat.pw.toml"
-hash = "027ea504750465ab40667526ad7eb4a965716e11e70d1aded3f42a5be8baa381"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps-x-sable.pw.toml"
 hash = "b935ef30071e33025010c390655d53c53fc7bf82fecc8ac2b3cad0b98accee0d"
 metafile = true
