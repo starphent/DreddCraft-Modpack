@@ -768,11 +768,6 @@ hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "8581b5c46647e8534b9eb2c8192da6e52db10523ad6399c4a75a51b0d3012e74"
-metafile = true
-
-[[files]]
 file = "mods/ears.pw.toml"
 hash = "d4fb9100185dd62bd3d945d3122674583d89b413ef6d0273c3a28844979869d6"
 metafile = true
