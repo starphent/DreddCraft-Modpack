@@ -1382,11 +1382,6 @@ hash = "f0770e8df6212a00fcea3dcd72bdcaa344fa745593abc867b7e499fb493556b6"
 metafile = true
 
 [[files]]
-file = "mods/trims-color-splash.pw.toml"
-hash = "dbff4e7bab5a22c4159741be506a08e7c9a017b1aab0112bb98bfa9a0f1a9694"
-metafile = true
-
-[[files]]
 file = "mods/vercte-satchels.pw.toml"
 hash = "ead79d2832279b9349eac8ef5279e52c66bb3360f4b59754ab2806ba4fa8e16d"
 metafile = true
