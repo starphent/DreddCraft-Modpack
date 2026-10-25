@@ -1,0 +1,13 @@
+name = "Trims - Color Splash!"
+filename = "trims-color-splash-v1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H7TelaeD/versions/ejq6ozLv/trims-color-splash-v1.3.0.jar"
+hash-format = "sha512"
+hash = "d1d3d967881acdae92ffecf8a19dfda60ecfdd4e12b162b218dc008da11d2bb3566fdb1cc2b9f5370b19c5b454e79ac895f8fb914e1e634297e9e8977ff74c1e"
+
+[update]
+[update.modrinth]
+mod-id = "H7TelaeD"
+version = "ejq6ozLv"
