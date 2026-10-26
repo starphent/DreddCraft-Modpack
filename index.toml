@@ -758,6 +758,11 @@ hash = "ee3b7d4d9aedbd5af12553b64fe8951d9c1b9d59f606919122311dc01e5505da"
 metafile = true
 
 [[files]]
+file = "mods/createfluidlogistic.pw.toml"
+hash = "afce286cc2fe50793e8e39e8ad740f82e30ae4bbca53cf89d5cccbd472e42e3f"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9872a039a5c245ece1345292c9855228accc8cf15f02cfb45ef8bcc8578d643a"
 metafile = true
