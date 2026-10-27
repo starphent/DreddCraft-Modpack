@@ -493,6 +493,11 @@ hash = "21dfd3b22c8fd9ea0b89f53460169693258b31dbcbdb3b6fea73c76d29fd1b84"
 metafile = true
 
 [[files]]
+file = "mods/arsdelight.pw.toml"
+hash = "8df9034b79a4332d57e4ec26c1940d8dfda1c0eacd771cacf6017f705bd1bd8b"
+metafile = true
+
+[[files]]
 file = "mods/atlas-api.pw.toml"
 hash = "4d611e688a4c09c69c90b5070e54e9dc13510d26e156b8bd12907ccd10048537"
 metafile = true
@@ -555,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/cocktails-delight.pw.toml"
 hash = "6c9e848a0666eb79285ee47d203ba56a78b0ef331e3bc6d9ee364689805b1e6d"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "8f518d4596d5b0facac4b67803561fc0e44ea00f96222c0b8ee11de8da652fb6"
 metafile = true
 
 [[files]]
@@ -933,6 +943,11 @@ hash = "80534bf156adf5f4d3a396fb62d8395603312d94a7b91527daa48559a3664729"
 metafile = true
 
 [[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "5a1de859b07c79b2f82b1cd0bbaecdf8c0ac6613253a715b4fac7abe6f770809"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
@@ -1260,6 +1275,11 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "e94fd40ce5d026f23bd729e02b8ff9bdfbd77bdafa6ad7e3b7eb327633a401cb"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-irons-spells-n-spellbooks.pw.toml"
+hash = "84920850461055507544985945f445e6e992f663c8392f91639f49eab2aa380e"
 metafile = true
 
 [[files]]
