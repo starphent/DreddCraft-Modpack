@@ -1308,6 +1308,11 @@ hash = "8b53d6ff33309a5a8b78b741fb6ce02c7e84bde2ea14d1252604bc314f2201dc"
 metafile = true
 
 [[files]]
+file = "mods/sable-power-loader-compat.pw.toml"
+hash = "ff6242a2e4c23e2978ebb2293b9cc94b8c999a190b8b44dbdce40f485ed5d4e1"
+metafile = true
+
+[[files]]
 file = "mods/sable-ragdoll-corpse.pw.toml"
 hash = "e48a9f24f9c0e937b4aa46bcfec7e8ceaa40a4f29f4ea1c659c6d28575560320"
 metafile = true
